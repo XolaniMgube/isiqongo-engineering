@@ -52,7 +52,8 @@ body {
 }
 
 .hero-content-inner {
-    padding-top: 100px; /* Prevent overlap with fixed navbar */
+    padding-top: 100px;
+    /* Prevent overlap with fixed navbar */
     max-width: 700px;
 }
 
@@ -139,7 +140,8 @@ body {
     }
 
     .nav-item:last-child {
-        margin-left: 0!important;
+        margin-left: 0 !important;
+    }
 
 }
 
@@ -336,7 +338,7 @@ body {
 .service-title {
     font-weight: 600;
     margin-bottom: 12px;
-    color:#333
+    color: #333
 }
 
 /* Text */
@@ -562,5 +564,4 @@ body {
         margin-top: 40px;
     }
 }
-
-
+}
